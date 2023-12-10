@@ -1,28 +1,28 @@
 # Node.js
 node_modules/
 
-# Configuración de entorno
-.env
+# # Configuración de entorno
+# .env
 
-# Archivos de registro
-logs/
-*.log
-npm-debug.log*
+# # Archivos de registro
+# logs/
+# *.log
+# npm-debug.log*
 
-# Archivos de construcción
-build/
-dist/
+# # Archivos de construcción
+# build/
+# dist/
 
-# Dependencias de construcción
-.cache/
+# # Dependencias de construcción
+# .cache/
 
-# Yarn
-yarn-error.log
+# # Yarn
+# yarn-error.log
 
 # Editor
 .vscode/
 .idea/
 
-# Archivos de sistema
-.DS_Store
-Thumbs.db
+# # Archivos de sistema
+# .DS_Store
+# Thumbs.db
